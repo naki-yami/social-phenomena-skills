@@ -60,5 +60,10 @@ python sitongdao/scripts/四通道批处理.py <语料目录> --base-year 2026 -
 
 ## 许可
 
-未附许可协议（默认保留所有权利）。如需引用 / 转载，请先联系。
-`sitongdao/scripts/简繁字典.tsv` 取自 [OpenCC](https://github.com/BYVoid/OpenCC)（Apache-2.0），随文件保留其归属。
+**MIT**（见 [`LICENSE`](LICENSE)）——可自由使用、修改、分发、商用，保留版权与许可声明即可。
+
+例外与归属：
+
+- `sitongdao/scripts/简繁字典.tsv` 取自 [OpenCC](https://github.com/BYVoid/OpenCC)，**Apache-2.0**——随文件保留其归属；该文件本身仍按 Apache-2.0（与 MIT 兼容）。
+- **标定账本不在本仓库**（见上文），因此不在本许可范围内。
+- 出结构图用的 **archify** 是第三方作品（上游 [tt-a1i/archify](https://github.com/tt-a1i/archify)，MIT），**不随本仓库分发**。
