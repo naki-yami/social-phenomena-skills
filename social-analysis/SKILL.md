@@ -182,6 +182,6 @@ description: 分析社会现象的判据与方法论，并且是「分析本题�
 - 操作层：`outputs/新闻局势分析法.md`（**V19**，编号 ≡ 体系层）
 - 账本与专题：`outputs/库内地基_通道实测.md`、`outputs/P1_域间重叠度_三组语料.md` … `outputs/P6_语言面_第三语种.md`、`outputs/工作记录_*`
 - 可视化：`outputs/体系总览_可视化看板.html`
-- 本 skill 自身也在仓库里：`skills/social-analysis/`、`skills/sitongdao/`
+- 本 skill 自身住在另一个仓库 **`social-phenomena-skills`**（公开）：`social-analysis/`、`sitongdao/`；上面这个仓库的 `skills/` 下只留第三方依赖 `archify/`（MIT）
 
 **一份真相**：所有阈值都是判据的一部分（住在 skill 里），所有**语料统计结果**都只住在上列文件里——本 skill 不复制任何读数。
