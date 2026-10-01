@@ -54,7 +54,7 @@ python "<skill>/scripts/四通道批处理.py" <路径...> [--kw 词1 词2 ...] 
 - `scripts/四通道批处理.py` —— 工具本体
 - `scripts/简繁字典.tsv` —— 简繁转换表（取自 OpenCC，Apache-2.0）
 
-全量运行产物与完整读法不放在 skill 里，按路径引用（另一个仓库 `social-phenomena-analysis` 的 `outputs/`，2026-10 生成，**目前未公开**；作者本机工作副本 `D:\Codex\2026-09-30\fen\github_repo`）。下称路径均**相对该仓库根**。**工具自包含，不看账本也能跑**：
+全量运行产物与完整读法不放在 skill 里，按路径引用（另一个仓库 `social-phenomena-analysis` 的 `outputs/`，2026-10 生成，**目前未公开**）。下称路径均**相对该仓库根**。**工具自包含，不看账本也能跑**：
 
 - `outputs/四通道工具/README.md` —— 完整读法 ＋ 全部已知边界
 - 同目录 `全库通道扫描.md` / `_摘要.md` / `.json` —— 全量运行产物（含机器可读分数）
